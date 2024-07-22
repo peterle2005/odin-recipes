@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 
+h2 {
+    font-weight: bold;
+}
+
+li {
+    background-color: red;
+    color: white;
+}
